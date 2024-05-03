@@ -66,6 +66,16 @@ function Home() {
             </a>
           </p>
           <p>
+            Github:{" "}
+            <a
+              href="https://github.com/Sobur440"
+              className="text-blue-500 hover:text-blue-700"
+              target="_blank"
+            >
+              Sobur440
+            </a>
+          </p>
+          <p>
             LinkedIn:{" "}
             <a
               href="https://www.linkedin.com/in/sobur-abubakar-835b6b246/"
