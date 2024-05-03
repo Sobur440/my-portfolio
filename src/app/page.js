@@ -32,7 +32,7 @@ function Home() {
           </li>
           <li>
             <a
-              href="https://anashassan.me"
+              href="https://anaas.vercel.app/"
               className="text-blue-500 hover:text-blue-700"
               target="_blank"
             >
