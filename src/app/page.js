@@ -74,6 +74,14 @@ function Home() {
             >
               Sobur Abubakar
             </a>
+            <p>
+              <a
+                href="mailto:abubakarsobur440@gmail.com"
+                className="text-blue-500 hover:text-blue-700"
+              >
+                Email me
+              </a>
+            </p>
           </p>
           <p>Send me a friend request on Discord: halaluchiha</p>
         </div>
