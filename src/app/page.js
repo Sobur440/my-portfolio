@@ -45,7 +45,7 @@ function Home() {
               className="text-blue-500 hover:text-blue-700"
               target="_blank"
             >
-              Covid 19
+              Covid 19 Awareness
             </a>
           </li>
         </ul>
