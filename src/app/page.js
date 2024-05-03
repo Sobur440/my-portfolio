@@ -18,7 +18,7 @@ function Home() {
               className="text-blue-500 hover:text-blue-700"
               target="_blank"
             >
-              Mazinger's Portfolio
+              Mazinger&apos;s Portfolio
             </a>
           </li>
           <li>
